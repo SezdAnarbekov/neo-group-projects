@@ -6,6 +6,7 @@ import java.util.Scanner;
 /**
  * Created by syezdsultanov on 9/21/17.
  * Make program that finds the sum of all numbers from 1, to n, where n is a number given through input!
+ *sample
  */
 public class Solution3 {
 
