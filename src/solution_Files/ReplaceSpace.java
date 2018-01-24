@@ -7,11 +7,12 @@ public class ReplaceSpace {
     public static void main(String[] args) {
         char[] na = {'M','r',' ','J','o','h','n',' ','S','m','i','t','h',' ',' ',' ',' '};
         replaceString(na,13);
+        replace("Mr John Smith");
     }
 
     static void replaceString(char[] str, int trueLength) {
 
-        int spaceCount = 0, index, i = 0;
+        int spaceCount = 0, index, i;
         for (i = 0; i < trueLength; i++){
             if (str[i] == ' '){
                 spaceCount++;
@@ -33,5 +34,8 @@ public class ReplaceSpace {
             }
         }
         System.out.println(str);
+    }
+    static void replace(String str){
+        System.out.println(str.replaceAll(" ","%20"));
     }
 }

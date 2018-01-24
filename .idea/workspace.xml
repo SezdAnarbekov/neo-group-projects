@@ -1,77 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b98eb591-85de-4994-8c55-bb7f1f1fdbf6" name="Default" comment="new task solutions">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allclasses-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allclasses-noframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/appletter/Banner.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/appletter/HappyFace.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/appletter/JSliderler.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/appletter/JSpinnerler.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/appletter/ShowStatus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/appletter/SwingControlDemo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/appletter/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/appletter/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/appletter/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/constant-values.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deprecated-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help-doc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hidden_calc/Calculator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hidden_calc/CalculatorApplication.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hidden_calc/Quiz.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hidden_calc/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hidden_calc/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hidden_calc/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-files/index-1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-files/index-10.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-files/index-11.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-files/index-12.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-files/index-13.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-files/index-14.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-files/index-2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-files/index-3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-files/index-4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-files/index-5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-files/index-6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-files/index-7.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-files/index-8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-files/index-9.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/overview-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/overview-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/overview-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-list" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/serialized-form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/FirstNonRepeated.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/Permutation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/RemoveAllVovels.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/ReplaceSpace.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/Solution.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/Solution1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/Solution2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/Solution3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/Solution4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/Solution5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/Solution6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/Solution8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/StringCompression.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/StringRotation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/SwingControlDemo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/TestClass.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/UbakitFormattoo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/package-frame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/package-summary.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solution_Files/package-tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/solution_Files/ExceptionTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/solution_Files/FirstNonRepeated.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/solution_Files/ReverseNumericalOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/solution_Files/ReverseWords.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/solution_Files/StringRotation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/solution_Files/TestClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/solution_Files/TestExceptios.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheet.css" />
+    <list default="true" id="b98eb591-85de-4994-8c55-bb7f1f1fdbf6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/solution_Files/CheckPermutation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/solution_Files/ReverseLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/solution_Files/UniqueChars.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Intelij IDEA projects/solution_Files/ReplaceSpace.class" afterPath="$PROJECT_DIR$/out/production/Intelij IDEA projects/solution_Files/ReplaceSpace.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/solution_Files/ReplaceSpace.java" afterPath="$PROJECT_DIR$/src/solution_Files/ReplaceSpace.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/solution_Files/ReverseWords.java" afterPath="$PROJECT_DIR$/src/solution_Files/ReverseWords.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,107 +41,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution8.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/solution_Files/Solution8.java">
+      <file leaf-file-name="UniqueChars.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/solution_Files/UniqueChars.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-              <folding />
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#204#205#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringCompression.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/solution_Files/StringCompression.java">
+      <file leaf-file-name="CheckPermutation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/solution_Files/CheckPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-              <folding />
+              <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+              <folding>
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExceptionTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/solution_Files/ExceptionTest.java">
+      <file leaf-file-name="ReplaceSpace.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/solution_Files/ReplaceSpace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="135">
+              <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding>
+                <element signature="e#1068#1069#0" expanded="true" />
+                <element signature="e#1129#1130#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstNonRepeated.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solution_Files/FirstNonRepeated.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseWords.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReverseWords.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/solution_Files/ReverseWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-              <folding>
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashSet.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2700">
-              <caret line="217" column="19" lean-forward="false" selection-start-line="217" selection-start-column="19" selection-end-line="217" selection-end-column="19" />
-              <folding>
-                <element signature="e#8033#8034#0" expanded="true" />
-                <element signature="e#8081#8082#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UbakitFormattoo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/solution_Files/UbakitFormattoo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="435">
+              <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/solution_Files/Solution5.java">
+      <file leaf-file-name="ReverseLinkedList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/solution_Files/ReverseLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution6.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/solution_Files/Solution6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution7.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/solution_Files/Solution7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+            <state relative-caret-position="285">
+              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -238,10 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/week8/jany/Login.java" />
-        <option value="$PROJECT_DIR$/src/week8/jany/RoundButton.java" />
-        <option value="$PROJECT_DIR$/src/week8/NewBase.java" />
-        <option value="$PROJECT_DIR$/src/week8/jany/Quiz.java" />
         <option value="$PROJECT_DIR$/src/week8/jany/CalculatorApplication.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
         <option value="$PROJECT_DIR$/src/week6/Solution.java" />
@@ -275,7 +160,6 @@
         <option value="$PROJECT_DIR$/src/solution_Files/Solution7.java" />
         <option value="$PROJECT_DIR$/src/solution_Files/Solution8.java" />
         <option value="$PROJECT_DIR$/src/solution_Files/Permutation.java" />
-        <option value="$PROJECT_DIR$/src/solution_Files/ReplaceSpace.java" />
         <option value="$PROJECT_DIR$/src/solution_Files/StringRotation.java" />
         <option value="$PROJECT_DIR$/src/solution_Files/FirstNonRepeated.java" />
         <option value="$PROJECT_DIR$/src/solution_Files/TestClass2.java" />
@@ -288,7 +172,12 @@
         <option value="$PROJECT_DIR$/src/solution_Files/UbakitFormattoo.java" />
         <option value="$PROJECT_DIR$/src/solution_Files/StringCompression.java" />
         <option value="$PROJECT_DIR$/src/solution_Files/ExceptionTest.java" />
+        <option value="$PROJECT_DIR$/src/solution_Files/UniqueChars.java" />
+        <option value="$PROJECT_DIR$/src/solution_Files/checkpermutation.java" />
+        <option value="$PROJECT_DIR$/src/solution_Files/CheckPermutation.java" />
+        <option value="$PROJECT_DIR$/src/solution_Files/ReplaceSpace.java" />
         <option value="$PROJECT_DIR$/src/solution_Files/ReverseWords.java" />
+        <option value="$PROJECT_DIR$/src/solution_Files/ReverseLinkedList.java" />
       </list>
     </option>
   </component>
@@ -299,6 +188,9 @@
     <option name="y" value="23" />
     <option name="width" value="1276" />
     <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -315,6 +207,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -385,9 +278,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -403,87 +295,7 @@
       <recent name="appletter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseWords">
-    <configuration default="false" name="TestExceptios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="solution_Files.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="solution_Files.TestExceptios" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Intelij IDEA projects" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="UbakitFormattoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="solution_Files.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="solution_Files.UbakitFormattoo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Intelij IDEA projects" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="StringCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="solution_Files.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="solution_Files.StringCompression" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Intelij IDEA projects" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="solution_Files.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="solution_Files.ExceptionTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Intelij IDEA projects" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.ReverseLinkedList">
     <configuration default="false" name="ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -492,6 +304,86 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="solution_Files.ReverseWords" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Intelij IDEA projects" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="UniqueChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="solution_Files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="solution_Files.UniqueChars" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Intelij IDEA projects" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CheckPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="solution_Files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="solution_Files.CheckPermutation" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Intelij IDEA projects" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ReplaceSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="solution_Files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="solution_Files.ReplaceSpace" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Intelij IDEA projects" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="solution_Files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="solution_Files.ReverseLinkedList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -760,19 +652,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestExceptios" />
-      <item index="1" class="java.lang.String" itemvalue="Application.UbakitFormattoo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.StringCompression" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ExceptionTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ReverseWords" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ReverseWords" />
+      <item index="1" class="java.lang.String" itemvalue="Application.UniqueChars" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CheckPermutation" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ReplaceSpace" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ReverseLinkedList" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ReverseWords" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ExceptionTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.StringCompression" />
-        <item index="3" class="java.lang.String" itemvalue="Application.UbakitFormattoo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestExceptios" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ReverseLinkedList" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ReverseWords" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ReplaceSpace" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CheckPermutation" />
+        <item index="4" class="java.lang.String" itemvalue="Application.UniqueChars" />
       </list>
     </recent_temporary>
   </component>
@@ -823,7 +715,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516168924551</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new task solutions">
+      <created>1516169326976</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1516169326976</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -837,7 +736,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1276" height="773" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -849,12 +748,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5031348" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23641704" sideWeight="0.4968652" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22690438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23338735" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26985413" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959481" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -931,12 +830,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/solution_Files/ReplaceSpace.java</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/solution_Files/FirstNonRepeated.java</url>
           <line>16</line>
           <properties />
@@ -948,6 +841,12 @@
           <properties />
           <option name="timeStamp" value="98" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution_Files/UniqueChars.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/solution_Files/ReverseNumericalOrder.java</url>
           <line>12</line>
@@ -955,7 +854,7 @@
           <option name="timeStamp" value="108" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="118" />
+      <option name="time" value="121" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -964,9 +863,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/week8/Rectangular_Prism.java" />
-    <entry file="file://$PROJECT_DIR$/src/week8/Sabak_1.class" />
-    <entry file="file://$PROJECT_DIR$/src/week8/Sabak_1.java" />
     <entry file="file://$PROJECT_DIR$/src/week8/Shape.java" />
     <entry file="file://$PROJECT_DIR$/src/week8/Soccer.java" />
     <entry file="file://$PROJECT_DIR$/src/week8/SportsCar.java" />
@@ -984,14 +880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/solution_Files/ReplaceSpace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1108,7 +996,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1137,7 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1153,7 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1161,7 +1046,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1169,7 +1053,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1177,7 +1060,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1193,7 +1075,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1201,7 +1082,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1209,7 +1089,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1221,27 +1100,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/solution_Files/Solution8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/solution_Files/UbakitFormattoo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/solution_Files/StringCompression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1264,17 +1126,9 @@
         <state relative-caret-position="2700">
           <caret line="217" column="19" lean-forward="false" selection-start-line="217" selection-start-column="19" selection-end-line="217" selection-end-column="19" />
           <folding>
-            <element signature="e#8033#8034#0" expanded="true" />
-            <element signature="e#8081#8082#0" expanded="true" />
+            <element signature="e#8033#8034#0" expanded="false" />
+            <element signature="e#8081#8082#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/solution_Files/ExceptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1282,18 +1136,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution_Files/ExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution_Files/StringCompression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution_Files/Solution8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution_Files/UniqueChars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution_Files/CheckPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution_Files/ReplaceSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#1068#1069#0" expanded="true" />
+            <element signature="e#1129#1130#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/solution_Files/ReverseWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="435">
+          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution_Files/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
